@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "title": "Axium Studio",
+    "subtitle": "O Eixo onde tudo se encontra.",
+    "description": "Axium Studio é a central criativa e vitrine principal de Thales — um apresentador geral de todos os seus projetos, produtos e criações. Representa o ponto de convergência entre ideias, marcas e produções, servindo como um hub que conecta tudo com identidade, conceito e propósito."
+  },
+  "hero": {
+    "logoUrl": "https://i.imgur.com/AyQVHKg.png",
+    "headline": "O Eixo onde tudo se encontra.",
+    "ctaText": "Explorar Projetos"
+  },
+  "highlight": {
+    "badge": "Em Destaque",
+    "title": "Criação de Sites e Páginas de Vendas",
+    "description": "Não deixe seu negócio com uma apresentação simples. Valorize seu trabalho com um site de qualidade e conversão!",
+    "ctaText": "Saber Mais",
+    "actionUrl": "https://api.whatsapp.com/send?phone=5553991257648&text=Gostaria%20de%20saber%20mais%20sobre%20seu%20servi%C3%A7o%20de%20Landing%20Pages"
+  },
+  "projects": [
+    {
+      "id": "websites",
+      "slug": "criacao-de-sites",
+      "tags": ["landing pages", "sites institucionais", "SEO", "React", "performance"],
+      "title": "Criação de Sites",
+      "description": "Landing pages de alta conversão, sites institucionais e portfólios. Desenvolvidos com tecnologias modernas para garantir velocidade e SEO.",
+      "detailSubtitle": "Sua presença digital começa aqui.",
+      "detailDescription": "Desenvolvemos sites que não são apenas bonitos, mas funcionais. Focamos na experiência do usuário (UX) e na interface (UI) para garantir que seu visitante se torne um cliente.\n\nUtilizamos React, TailwindCSS e otimizações de performance para garantir que seu site carregue instantaneamente.",
+      "buttonText": "Orçar Projeto",
+      "buttonLink": "https://wa.me/53991257648"
+    },
+    {
+      "id": "branding",
+      "slug": "identidade-visual",
+      "tags": ["branding", "logotipos", "design gráfico", "identidade corporativa"],
+      "title": "Identidade Visual",
+      "description": "Logotipos, paletas de cores e manuais de marca. Criamos a identidade visual completa para que seu negócio seja reconhecido e lembrado.",
+      "detailSubtitle": "Design que marca.",
+      "detailDescription": "Uma marca forte é essencial para se destacar no mercado. Nosso processo de criação de identidade visual envolve pesquisa, conceito e design refinado para transmitir os valores da sua empresa visualmente.",
+      "buttonText": "Ver Pacotes",
+      "buttonLink": "https://wa.me/53991257648"
+    },
+    {
+      "id": "consulting",
+      "slug": "consultoria-tech",
+      "tags": ["consultoria", "transformação digital", "estratégia", "automação"],
+      "title": "Consultoria Tech",
+      "description": "Análise e otimização de presença digital. Ajudamos você a escolher as melhores ferramentas e estratégias para crescer online.",
+      "detailSubtitle": "Estratégia e Tecnologia.",
+      "detailDescription": "Não sabe por onde começar? Nossa consultoria técnica avalia seu negócio e propõe as melhores soluções digitais, desde a escolha da plataforma até a integração de ferramentas de automação.",
+      "buttonText": "Agendar Reunião",
+      "buttonLink": "https://wa.me/53991257648"
+    },
+    {
+      "id": "newgen",
+      "slug": "acervo-newgen",
+      "tags": ["educação", "plataforma de cursos", "web app", "material gratuito"],
+      "title": "Acervo NewGen",
+      "description": "Plataforma dedicada ao compartilhamento e organização de material educacional, conectando estudantes a um vasto acervo de cursos.",
+      "detailSubtitle": "Conhecimento sem barreiras.",
+      "detailDescription": "O Acervo NewGen é uma iniciativa voltada para a educação digital. A plataforma centraliza cursos de diversas áreas em um ambiente amigável e responsivo. O foco do desenvolvimento foi criar uma estrutura leve, rápida e fácil de navegar, permitindo que o usuário encontre o conteúdo desejado com o mínimo de cliques.",
+      "buttonText": "Acessar Acervo",
+      "buttonLink": "https://newgen-ruby.vercel.app/"
+    },
+    {
+      "id": "inspira",
+      "slug": "inspira-cursos",
+      "tags": ["educação", "cursos online", "plataforma ead", "design intuitivo"],
+      "title": "Inspira Cursos",
+      "description": "Plataforma de cursos com foco em conhecimento livre e acessível. Design convidativo para incentivar a exploração.",
+      "detailSubtitle": "Conhecimento que transforma.",
+      "detailDescription": "A Inspira Cursos é uma plataforma dedicada à democratização do ensino. Com uma interface moderna e acolhedora, foi projetada para facilitar a jornada do aluno, oferecendo uma experiência de navegação fluida e intuitiva entre diversos conteúdos educacionais.",
+      "buttonText": "Acessar Plataforma",
+      "buttonLink": "https://inspiracourses.vercel.app/"
+    },
+    {
+      "id": "axify",
+      "slug": "axify-social-smm",
+      "tags": ["social media", "marketing digital", "engajamento", "SMM", "instagram"],
+      "title": "Axify Social SMM",
+      "description": "Axify Social é o braço especializado da Axium voltado para soluções SMM rápidas, seguras e de alta qualidade.",
+      "detailSubtitle": "Impulsione suas redes sociais.",
+      "detailDescription": "Oferecemos serviços como seguidores, curtidas e visualizações com entrega acelerada e preço justo, ideal para impulsionar perfis no Instagram e TikTok.",
+      "buttonText": "Ver Planos",
+      "buttonLink": "https://wa.me/53991257648"
+    }
+  ],
+  "manifesto": {
+    "text": "A Axium nasceu da inquietação. Da vontade de criar, experimentar e transformar cada ideia em algo funcional, bonito e útil. Somos o laboratório onde a criatividade encontra a tecnologia."
+  },
+  "process": [
+    {
+      "step": 1,
+      "title": "1. Briefing e Imersão",
+      "description": "O primeiro passo é entender profundamente seu negócio, seus objetivos e seu público. Uma conversa estratégica para alinhar visão e expectativas."
+    },
+    {
+      "step": 2,
+      "title": "2. Proposta e Conceito",
+      "description": "Com base na imersão, desenvolvemos uma proposta detalhada e o conceito criativo do projeto. É aqui que as ideias começam a tomar forma."
+    },
+    {
+      "step": 3,
+      "title": "3. Design e Desenvolvimento",
+      "description": "Mãos à obra. Criamos o design, a identidade visual ou desenvolvemos o código, com feedbacks constantes para garantir que seu site ou produto seja perfeito."
+    },
+    {
+      "step": 4,
+      "title": "4. Lançamento e Suporte",
+      "description": "Com tudo aprovado, lançamos o projeto. Mas nosso trabalho não termina aqui: oferecemos suporte para garantir o sucesso contínuo."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Juliana Almeida",
+      "role": "Fundadora da Dália Cosméticos",
+      "quote": "O Thales não apenas entregou um site incrível, mas capturou a essência da minha marca. O processo foi transparente e o resultado superou todas as expectativas. Recomendo de olhos fechados!"
+    },
+    {
+      "name": "Marcos Ferreira",
+      "role": "Diretor de Marketing na InovaTech",
+      "quote": "Precisávamos de uma identidade visual forte para o lançamento do nosso produto e o Axium Studio foi a escolha certa. Profissionalismo, criatividade e um resultado final que nos enche de orgulho."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quanto tempo leva para desenvolver um site?",
+      "answer": "O tempo de desenvolvimento varia conforme a complexidade do projeto. Uma Landing Page simples pode levar de 1 a 2 semanas, enquanto um site institucional completo pode levar de 3 a 6 semanas. Após nossa conversa inicial, forneceremos um cronograma detalhado."
+    },
+    {
+      "question": "O que está incluso no serviço de identidade visual?",
+      "answer": "Nosso pacote de identidade visual inclui a criação de logotipo (com variações), definição de paleta de cores, tipografia, e um manual de marca básico. Também podemos incluir templates para redes sociais e outros materiais, conforme a necessidade do seu negócio."
+    },
+    {
+      "question": "Vocês oferecem suporte após a entrega do projeto?",
+      "answer": "Sim! Oferecemos um período de suporte gratuito de 30 dias após o lançamento de um site para corrigir eventuais bugs. Também temos planos de manutenção e suporte contínuo para garantir que seu site esteja sempre atualizado e seguro."
+    },
+    {
+      "question": "Como funciona o processo de pagamento?",
+      "answer": "Geralmente, trabalhamos com um sinal de 50% do valor total para iniciar o projeto e os 50% restantes na entrega. Somos flexíveis e podemos discutir outras formas de pagamento que se adequem à sua necessidade."
+    }
+  ],
+  "about": {
+    "conceito": {
+      "title": "Conceito",
+      "content": "O Axium Studio nasceu de uma necessidade fundamental: criar um ponto de convergência. Em um mundo de ideias dispersas e projetos que muitas vezes não se conectam, o estúdio serve como um eixo — um axium — que une criatividade, tecnologia e propósito em um só lugar."
+    },
+    "missao": {
+      "title": "Missão",
+      "content": "Nossa missão é simples: transformar conceitos em realidade tangível e impactante. Seja desenvolvendo um site que converte, uma identidade visual que emociona ou uma ferramenta que simplifica, cada serviço oferecido aqui é uma peça de um quebra-cabeça maior."
+    },
+    "essencia": {
+      "title": "Essência",
+      "content": "A essência do estúdio está na busca incessante pela qualidade e pela coerência. Tudo o que você vê aqui compartilha do mesmo DNA: uma paixão por resolver problemas de forma elegante e uma dedicação para entregar valor que vai além do esperado."
+    }
+  },
+  "portfolio": [
+    {
+      "title": "NewGen Cursos",
+      "description": "Landing page para a divulgação de um vasto acervo de cursos online. Foco em design limpo, navegação intuitiva e alta conversão para captação de leads.",
+      "liveUrl": "https://newgen-ruby.vercel.app/"
+    },
+    {
+      "title": "FOPE 126ª CIA",
+      "description": "Site de apresentação para a Força Pratriota Estudantil, apresentando a história, missão e valores da companhia. Design sóbrio e imponente para transmitir autoridade...",
+      "liveUrl": "https://fope126cia.vercel.app/"
+    },
+    {
+      "title": "Zenin Designs",
+      "description": "Página de portfólio para um designer, focada em uma experiência visual impactante. Layout moderno com animações sutis para destacar os projetos criativos.",
+      "liveUrl": "https://zenin-designs.vercel.app/"
+    },
+    {
+      "title": "Projeta Cursos",
+      "description": "Plataforma de vendas para cursos preparatórios. A arquitetura foi pensada para facilitar a jornada do usuário, desde a descoberta do curso até a finalização da compra.",
+      "liveUrl": "https://projeta-teste.vercel.app/"
+    },
+    {
+      "title": "Inspira Cursos",
+      "description": "Plataforma de cursos com foco em conhecimento livre e acessível. O layout foi projetado para ser convidativo e de fácil navegação, incentivando a exploração e o aprendizado.",
+      "liveUrl": "https://inspiracourses.vercel.app/"
+    }
+  ],
+  "changelog": [
+    {
+      "version": "1.2.0",
+      "date": "12 Fev 2025",
+      "title": "Expansão de Portfólio",
+      "changes": [
+        "Nova página dedicada 'Portfólio' com navegação suave.",
+        "Cards de projetos interativos com links externos.",
+        "Melhorias de acessibilidade e SEO."
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "20 Jan 2025",
+      "title": "Otimizações de UX",
+      "changes": [
+        "Adição da seção de FAQ interativa.",
+        "Implementação de sons de feedback ao clique.",
+        "Ajustes nas animações de entrada (fade-in)."
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "05 Jan 2025",
+      "title": "Lançamento Oficial",
+      "changes": [
+        "Lançamento do Axium Studio.",
+        "Integração com API do WhatsApp para orçamentos.",
+        "Design system e identidade visual definidos."
+      ]
+    }
+  ],
+  "contact": {
+    "instagram": "https://instagram.com/th.ksx",
+    "whatsapp": "https://wa.me/53991257648",
+    "email": "mailto:thaleskaleby24@gmail.com"
+  }
+}
