@@ -1,7 +1,6 @@
-
 import React, { useCallback, useMemo, useState, useEffect, useRef } from 'react';
-import { Card } from './components/Card';
-import { ArrowRightIcon, BriefcaseIcon, ChevronDownIcon, CodeBracketIcon, DesignIcon, FolderIcon, InstagramIcon, LightbulbIcon, MailIcon, QuoteIcon, RocketLaunchIcon, ScaleIcon, TvIcon, WhatsAppIcon, CloseIcon, ClockIcon, TrendingUpIcon, SparklesIcon, CpuIcon, PhotoIcon, ChatBubbleIcon } from './components/Icons';
+import { ProjectCard } from './components/ProjectCard';
+import { ArrowRightIcon, BriefcaseIcon, ChevronDownIcon, CodeBracketIcon, DesignIcon, FolderIcon, InstagramIcon, LightbulbIcon, MailIcon, QuoteIcon, RocketLaunchIcon, ScaleIcon, TvIcon, WhatsAppIcon, CloseIcon, ClockIcon, TrendingUpIcon, SparklesIcon, CpuIcon, PhotoIcon, ChatBubbleIcon, MainLogo } from './components/Icons';
 import { PortfolioPage } from './components/PortfolioPage';
 import { ChangelogModal } from './components/ChangelogModal';
 import { ParticleBackground } from './components/ParticleBackground';
@@ -131,7 +130,7 @@ const Header: React.FC<{
     }
 
     return (
-        <header className="fixed top-0 left-0 right-0 z-50 bg-primary/80 backdrop-blur-md border-b border-neutral">
+        <header className="fixed top-0 left-0 right-0 z-50 bg-primary border-b border-neutral">
             <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center justify-between h-20">
                     <a href="#hero" onClick={handleLogoClick} className="font-poppins font-bold text-2xl text-dark tracking-wide">
@@ -798,7 +797,7 @@ const App = () => {
                         <div className="grid md:grid-cols-3 gap-8">
                             {projects.map((project, index) => (
                                 <RevealOnScroll key={index} delay={index * 150} className="h-full">
-                                    <Card 
+                                    <ProjectCard 
                                         {...project} 
                                         onButtonClick={() => { playClickSound(); setSelectedCard(project); }} 
                                     />
